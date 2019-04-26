@@ -9,6 +9,7 @@
 
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
+!.gitkeep
 
 # track .editorconfig file (i.e. do NOT ignore it)
 !.editorconfig
